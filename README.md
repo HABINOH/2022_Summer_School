@@ -4,4 +4,6 @@
 * Github Test
 
 ##2022_06_29_(Wen)
-Github 활용
+Github 실습
+
+##gihub에서 수정
